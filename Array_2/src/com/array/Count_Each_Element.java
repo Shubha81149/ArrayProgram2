@@ -24,7 +24,7 @@ public class Count_Each_Element {
 				}
 			}
 			System.out.println("Each Occured Element in Array is: " + a[i] + "-" + count);
-
+            count = 0;
 		}
 	}
 
